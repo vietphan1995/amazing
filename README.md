@@ -14,5 +14,7 @@ amazing platform shorts things, items, programming language codes, passing/calli
 
 ![image.png](image.png)
 
+[back to projects …](https://github.com/vietphan1995/projects)
+
 ### Notes
 https://six-zinc-ad4.notion.site/amazing-1b25e832d6ee800882d0f6e411a193fc
