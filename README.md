@@ -1,6 +1,8 @@
 # amazing
 
-# Introduction
+## Amazing
+
+### Introduction
 
 [https://github.com/vietphan1995/amazing.git](https://github.com/vietphan1995/amazing.git)
 
@@ -14,7 +16,7 @@ amazing platform shorts things, items, programming language codes, passing/calli
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
 https://phantrungviet.notion.site/amazing-1b25e832d6ee800882d0f6e411a193fc
